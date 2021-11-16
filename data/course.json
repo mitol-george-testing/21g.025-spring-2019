@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "African History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c5fe9c2a-5d86-ce97-8182-fb1f1e498ac5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Africa and the Politics of Knowledge",
+  "course_description": "This course considers how, despite its immense diversity, Africa continues to hold purchase as both a geographical entity and meaningful knowledge category. It examines the relationship between articulations of \"Africa\" and projects like European imperialism, developments in the biological sciences, African de-colonization and state-building, and the imagining of the planet's future. Readings in anthropology and history are organized around five themes: space and place, race, representation, self-determination, and time.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.025",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
